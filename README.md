@@ -19,7 +19,6 @@ Here are my Skills:
 •Game Design (Unreal Engine)
 
 Here's my portfolio website:
-Also the GitHub: https://github.com/YasinduNethmina/YasinduNethmina
 
 If you're interested to work with me 😉, please kindly send an email to yasindunethmina1938096@gmail.com 
 
