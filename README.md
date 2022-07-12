@@ -1,4 +1,4 @@
-I'm Yasindu! a Blockchain Developer from Sri Lanka. I can help you with blockchain related or Web front-end related technologies. I'm willing to support any kind of projects can make a huge impact for the future.
+I'm Yasindu! A Blockchain Developer from Sri Lanka. I can help you with blockchain related or Web front-end related technologies. I'm willing to support any kind of projects can make a huge impact for the future.
 
 Here are my Skills:
 
