@@ -1,27 +1,26 @@
-I'm Yasindu! A Blockchain Developer from Sri Lanka. I can help you with blockchain or web front-end related technologies. I'm willing to support any project that can make a significant impact on the future.
+Hi! 👋 I'm Yasindu! a Blockchain Developer from Sri Lanka. I can help you with blockchain development or with web front-end related technologies. I'm willing to support any project that can make a significant impact on the future 😜 
+
+Before talking further, I'm willing to show you my stunnig portfolio pieces :)
+https://yasindu.me
 
 Here are my Skills:
 
-•HTML 
 •Tailwind CSS
 •Typescript / Javascript 
 •React
-•Next Js
-•Node Js
+•NextJs
+•Node Js (Basic)
 •HardHat
 •Solidity
-•Web3 Js / Ether Js
+•Ethers Js
 •ERC20 / 721
 •EVM
 •Defi
-•NFT
+•NFTs
 •Security Auditing
 •Game Design (Unreal Engine)
 
-Here's my portfolio website:
-Also the GitHub: https://github.com/YasinduNethmina/YasinduNethmina
-
-If you're interested in working with me 😉, please kindly send an email to yasindunethmina1938096@gmail.com 
+If you're interested to get me into your team 😊 please kindly send an email to yasindunethmina1938096@gmail.com 
 
 OR 
 
