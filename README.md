@@ -5,6 +5,10 @@
 	</a>
 </p>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
 <hr>
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank" rel="noopener noreferrer">Yasindu Nethmina</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
