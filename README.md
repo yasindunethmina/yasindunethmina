@@ -12,29 +12,19 @@
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 💻 I am a self taught Frontend Engineer & Blockchain Developer
+- 🌐 My portfolio site: https://yasindu.me
+- 🎓 I'm a master at solving bugs and making great-interactive & responsive websites
 - ⭐ 2022's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I’m currently open for a new job opportunity
 - 🎮 I'm an Ex-Game Designer switched my life to code for next 30 years
+- 😊 I’m currently open for a new job opportunity
 
 <br>
-<b>Frontend Tech Stack:</b>
+<b>Tech Stack:</b>
+<br>
+<br>
 
-        -React / NextJs / Redux
-        -GraphQL / REST APIs
-        -Node Js
-        -AWS/MongoDB
-        -Docker/Linux
+React / React Native / NextJs / Redux / HTML / CSS / Bootstrap / Tailwind CSS / SaaS / Javascript(ES6) / Typescript / GraphQL / REST APIs / Node Js / Express Js / AWS / MongoDB
         
-<br>
-<b>Blockchain Tech Stack:</b>
-
-        -Solidity
-        -Rust/C
-        -Hardhat/Truffle
-        -Openzepplin / Infura / Ethers Js
-        -Auditing tools
-        -Geth/Nethermind
-
 #### Languages and Tools 
 <p>
   <code><img height="25" src="https://img.icons8.com/color/344/javascript.png" alt="Javascript"></code>
@@ -55,44 +45,22 @@
   <code><img height="25" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VsCode"></code>
   <code><img height="25" src="https://img.icons8.com/color/344/git.png" alt="MongoDB"></code>
 
-
 </p>
 
-<br />
+<hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinduNethmina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduNethmina&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Find me on  
-<!--
-<p align='left'>
-   <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/yasinduneth" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
- <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
- 
- </p>
- -->
+## 🤝 Connect with me
 
  <p align='left'>
-   <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/yasinduneth" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://medium.com/@yasindu" target="_blank"><img height="25" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
+ <a href="https://github.com/YasinduNethmina" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
  
  </p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYasinduNethmina&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub+Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
-
-
------
-Credits: [UjwalKandi](https://github.com/UjwalKandi)
+<hr>
