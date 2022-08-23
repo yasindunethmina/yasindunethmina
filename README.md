@@ -1,11 +1,9 @@
 <p align="center">
 <br>
 	<a href="https://github.com/YasinduNethmina">
+		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Frontend+Engineer+%7C+Blockchain+Dev;Learning+the+great+tech+everyday+xD;open-source+lover+and+active+fam!&width=450&height=45">
+	</a>
 </p>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
 
 <hr>
 
@@ -21,6 +19,7 @@
 - 😊 I’m currently open for a new job opportunity
 <br>
 <br>
+
 
 
 ## 🛠️ My Favorite Tools
