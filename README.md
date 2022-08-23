@@ -5,7 +5,7 @@ Hi, I'm Yasindu Nethmina!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="[https://github.com/Bouaskaoun](https://github.com/YasinduNethmina)">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
 	<a href="https://github.com/Bouaskaoun">
