@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Yasindu Nethmina!
 	<a href="https://github.com/YasinduNethmina" target="_self">
-		<img src="<div class="tenor-gif-embed" data-postid="26065253" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/laptop-gif-26065253">Laptop GIF</a>from <a href="https://tenor.com/search/laptop-gifs">Laptop GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="30">
+		<img src="<div class="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif"></script>" width="30">
 	</a>
 </h1>
 <p align="center">
