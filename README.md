@@ -1,6 +1,6 @@
 <p align="center">
 		<a href="https://github.com/YasinduNethmina">
-		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Frontend+Engineer+%7C+Blockchain+Developer;First+solve+problem%2C+Then+write+the+code.=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Frontend+Engineer+%7C+Blockchain+Dev;Keep+Grinding+Everyday;=true&width=380&height=45">
 	</a>
 </p>
 
