@@ -17,15 +17,19 @@
 - ⭐ 2022's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 I'm an Ex-Game Designer switched my life to code for next 30 years
 - 😊 I’m currently open for a new job opportunity
+<br>
+<br>
 
+
+## 🛠️ My Favorite Tools
 <br>
-<b>Tech Stack:</b>
-<br>
-<br>
+
 
 React / React Native / NextJs / Redux / HTML / CSS / Bootstrap / Tailwind CSS / SaaS / Javascript(ES6) / Typescript / GraphQL / REST APIs / Node Js / Express Js / AWS / MongoDB
+
+
         
-#### Languages and Tools 
+## 👨‍💻 Programming Languages 
 <p>
   <code><img height="25" src="https://img.icons8.com/color/344/javascript.png" alt="Javascript"></code>
   <code><img height="25" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML"></code>
@@ -44,9 +48,16 @@ React / React Native / NextJs / Redux / HTML / CSS / Bootstrap / Tailwind CSS / 
   <code><img height="25" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" alt="Terminal"></code>
   <code><img height="25" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VsCode"></code>
   <code><img height="25" src="https://img.icons8.com/color/344/git.png" alt="MongoDB"></code>
-
 </p>
+<br>
 
+
+ ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinduNethmina&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduNethmina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ## 🤝 Connect with me
