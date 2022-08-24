@@ -36,7 +36,7 @@
     <a href="https://github.com/YasinduNethmina"><img alt="Bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" width="60px"></a>
      <a href="https://github.com/YasinduNethmina"><img alt="SaaS" src="https://img.icons8.com/color/344/sass.png" width="60px"></a>
 
-### 🧰 React Frameworks and Libraries
+### 🍩 React Frameworks and Libraries
 
 <p>
     <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="55px"></a>
@@ -50,13 +50,13 @@
     <a href="https://github.com/YasinduNethmina"><img alt="NodeJs" src="https://img.icons8.com/fluency/344/node-js.png" width="60px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Express Js" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="60px"></a>
     
-### 🗄️ APIs
+### 🌎 APIs
 
 <p>
     <a href="https://github.com/YasinduNethmina"><img alt="GraphQL" src="https://img.icons8.com/color/344/graphql.png" width="60px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="REST" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="60px"></a>
 
-### 🗄️ Databases & Cloud Hosting
+### ☁️ Databases & Cloud Hosting
 
 <p>
     <a href="https://github.com/YasinduNethmina"><img alt="AWS" src="https://img.icons8.com/color/344/amazon-web-services.png" width="60px"></a>
