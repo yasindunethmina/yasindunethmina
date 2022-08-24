@@ -9,7 +9,7 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank" rel="noopener noreferrer">Yasindu Nethmina</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<a href="https://github.com/YasinduNethmina"><img align='right' src='[https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://c.tenor.com/mpgNqwsfLYwAAAAd/rain-sad-man.gif)' width='150"'></a></h2>
 
 - 💻 I am a self taught Frontend Engineer & Blockchain Developer
 - 🌐 My portfolio site: https://yasindu.me
