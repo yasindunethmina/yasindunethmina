@@ -39,9 +39,9 @@
 ### 🧰 React Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="60px"></a>
-    <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="60px"></a>
-     <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="55px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="55px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="55px"></a>
 
 
 ### 🗄️ Backend Frameworks
@@ -87,6 +87,6 @@
    <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/yasinduneth" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://medium.com/@yasindu" target="_blank"><img height="25" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
+ <a href="https://medium.com/@yasindu" target="_blank"><img height="25" src="https://miro.medium.com/max/1400/1*nik5P5FozoT3DcZsuSvV8w.png"></a>&nbsp;&nbsp;
  <a href="https://github.com/YasinduNethmina" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
