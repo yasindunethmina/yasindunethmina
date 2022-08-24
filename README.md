@@ -18,47 +18,67 @@
 - 🎮 I'm an Ex-Game Designer switched my life to code for next 30 years
 - 😊 I’m currently open for a new job opportunity
 <br>
-<br>
-
-
 
 ## 🛠️ My Favorite Tools
-<br>
 
+### 👨‍💻 Programming Languages
 
-React / React Native / NextJs / Redux / HTML / CSS / Bootstrap / Tailwind CSS / SaaS / Javascript(ES6) / Typescript / GraphQL / REST APIs / Node Js / Express Js / AWS / MongoDB
-
-
-        
-## 👨‍💻 Programming Languages 
 <p>
-  <code><img height="25" src="https://img.icons8.com/color/344/javascript.png" alt="Javascript"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/css3.png" alt="CSS"></code>
-  <code><img height="25" src="https://img.icons8.com/offices/344/react.png" alt="React"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/redux.png" alt="Redux"></code>
-  <code><img height="25" src="https://img.stackshare.io/service/5936/nextjs.png" alt="NextJs"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/bootstrap.png" alt="Bootstrap"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/tailwind_css.png" alt="Tailwind CSS"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/sass.png" alt="Saas"></code>
-  <code><img height="25" src="https://img.icons8.com/fluency/344/node-js.png" alt="C"></code>
-  <code><img height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express Js"></code>
-  <code><img height="26" src="https://img.icons8.com/color/344/graphql.png" alt="GraphQL"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/amazon-web-services.png" alt="AWS"></code>
-  <code><img height="25" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"></code>
-  <code><img height="25" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" alt="Terminal"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VsCode"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/git.png" alt="MongoDB"></code>
-</p>
-<br>
+    <a href="https://github.com/YasinduNethmina"><img alt="JavaScript" src="https://img.icons8.com/color/344/javascript--v1.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Typescript" src="https://img.icons8.com/color/344/typescript.png" width="60px"></a>
+
+### 🧰 HTML/ CSS Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/YasinduNethmina"><img alt="HTML" src="https://img.icons8.com/color/344/html-5--v1.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="CSS" src="https://img.icons8.com/color/344/css3.png" width="60px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="Tailwind CSS" src="https://img.icons8.com/color/344/tailwind_css.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" width="60px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="SaaS" src="https://img.icons8.com/color/344/sass.png" width="60px"></a>
+
+### 🧰 React Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="60px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="60px"></a>
 
 
- ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+### 🗄️ Backend Frameworks
+
+<p>
+    <a href="https://github.com/YasinduNethmina"><img alt="NodeJs" src="https://img.icons8.com/fluency/344/node-js.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Express Js" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="60px"></a>
+    
+### 🗄️ APIs
+
+<p>
+    <a href="https://github.com/YasinduNethmina"><img alt="GraphQL" src="https://img.icons8.com/color/344/graphql.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="REST" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="60px"></a>
+
+### 🗄️ Databases & Cloud Hosting
+
+<p>
+    <a href="https://github.com/YasinduNethmina"><img alt="AWS" src="https://img.icons8.com/color/344/amazon-web-services.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="MongoDB" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Firebase" src="https://img.icons8.com/color/344/firebase.png" width="60px"></a>
+    
+
+### 💻 Software and Tools
+
+<p>
+    <a href="https://github.com/YasinduNethmina"><img alt="Terminal" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="VSCode" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/git.png" width="60px"></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinduNethmina&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduNethmina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ ## <a href="https://github.com/YasinduNethmina"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
+
+[![Yasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinduNethmina&theme=tokyonight)](https://github.com/YasinduNethmina)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduNethmina&layout=compact&theme=tokyonight)](https://github.com/YasinduNethmina)
 <hr>
 
 ## 🤝 Connect with me
@@ -70,9 +90,3 @@ React / React Native / NextJs / Redux / HTML / CSS / Bootstrap / Tailwind CSS / 
  <a href="https://medium.com/@yasindu" target="_blank"><img height="25" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"></a>&nbsp;&nbsp;
  <a href="https://github.com/YasinduNethmina" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
- 
- </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYasinduNethmina&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub+Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<hr>
