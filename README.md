@@ -11,7 +11,7 @@
  
 <a href="https://github.com/YasinduNethmina"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 💻 I am a self taught Frontend Engineer & Blockchain Developer
+- 💻 I am a self taught Frontend Engineer from Sri Lanka
 - 🌐 My portfolio site: https://yasindu.me
 - 🎓 I'm a master at solving bugs and making great-interactive & responsive websites
 - ⭐ 2022's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -19,7 +19,7 @@
 - 😊 I’m currently open for a new job opportunity
 <br>
 
-## 🛠️ My Favorite Tools
+## 🛠️ My Daily Tools
 
 ### 👨‍💻 Programming Languages
 
