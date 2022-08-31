@@ -1,7 +1,7 @@
 <p align="center">
 <br>
 	<a href="https://github.com/YasinduNethmina">
-		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Hi+👋+I'm+Yasindu,+Frontend-Engineer+from+Sri+Lanka+😊;Digital+Nomad+🌏+|+Willing+for+exciting+challenges+🧗🏽;Wanna+check+my+skills+xD,+Here+it+is:+https://yasindu.me&width=750&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Hi+👋+I'm+Yasindu,+Frontend-Engineer+from+Sri+Lanka+😊;Digital+Nomad+🌏+|+Willing+for+exciting+challenges+🧗🏽;Wanna+check+my+skills+😜,+Here+it+is:+https://yasindu.me&width=750&height=45">
 	</a>
 </p>
 
