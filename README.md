@@ -11,7 +11,7 @@
  
 <a href="https://github.com/YasinduNethmina"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 💻 I am a 17 year-old self taught Frontend Engineer
+- 💻 I am a self taught Frontend Engineer
 - 🌐 My portfolio site: https://yasindu.me
 - 🎓 I'm a master at writing clean-code, solving bugs and making great-interactive & responsive websites
 - ⭐ 2022's Objective: More deep dive into web development & learn new things & challenge myself! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
