@@ -45,7 +45,7 @@
      <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpce_C3eRHbmi-PngRYM8d4CkGkG6oXiw1NS5ER54G8yM4K4eNWQk0q495i_63egxDaU&usqp=CAU" width="55px"></a>
 
 
-### 🗄️ Backend Frameworks
+### 🗄️ Backend Tools
 
 <p>
     <a href="https://github.com/YasinduNethmina"><img alt="NodeJs" src="https://img.icons8.com/fluency/344/node-js.png" width="60px"></a>
