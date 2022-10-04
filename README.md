@@ -36,12 +36,13 @@
     <a href="https://github.com/YasinduNethmina"><img alt="Bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" width="60px"></a>
      <a href="https://github.com/YasinduNethmina"><img alt="SaaS" src="https://img.icons8.com/color/344/sass.png" width="60px"></a>
 
-### 🍩 React Frameworks and Libraries
+### 🍩 React & Tools
 
 <p>
     <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="55px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="55px"></a>
      <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="55px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpce_C3eRHbmi-PngRYM8d4CkGkG6oXiw1NS5ER54G8yM4K4eNWQk0q495i_63egxDaU&usqp=CAU" width="55px"></a>
 
 
 ### 🗄️ Backend Frameworks
