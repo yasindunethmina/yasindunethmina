@@ -71,6 +71,7 @@
     <a href="https://github.com/YasinduNethmina"><img alt="Terminal" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" width="60px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="VSCode" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="60px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/git.png" width="60px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/figma--v1.png" width="60px"></a>
 
 <br>
 </br>
