@@ -73,7 +73,7 @@
     <a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/git.png" width="60px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/figma--v1.png" width="60px"></a>
 
-</br>
+</br></br>
 
  ## <a href="https://github.com/YasinduNethmina"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
