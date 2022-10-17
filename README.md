@@ -1,7 +1,7 @@
 <p align="center">
 <br>
 	<a href="https://github.com/YasinduNethmina">
-		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Hi+👋+I'm+Yasindu,+Frontend-Engineer+from+Sri+Lanka+😊;Digital+Nomad+🌏+|+Willing+for+exciting+challenges+🧗🏽;Wanna+check+my+skills+😜,+Here+it+is:+https://yasindu.me&width=750&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?font=serif&size=24&pause=2000&color=F73DB5&background=FFFFFF00&width=600&lines=Hi+👋+I'm+Yasindu,+Frontend-Engineer+from+Sri+Lanka+😊;Digital+Nomad+🌏+|+Willing+for+exciting+challenges+🧗🏽;&width=750&height=45">
 	</a>
 </p>
 
@@ -10,6 +10,8 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank" rel="noopener noreferrer">Yasindu Nethmina</a> <img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://c.tenor.com/xQBhnrHAO-8AAAAC/rain.gif)" height="30" />
  
 <a href="https://github.com/YasinduNethmina"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+
+When I program, I'm leveraging the work of millions of other people, including code in libraries, compilers, operating systems, computer networks, and the complex web of hardware infrastructure that makes the whole thing run. It's fun being 1 curious human among 8 billion others.
 
 - 💻 I am a self taught Frontend Engineer
 - 🌐 My portfolio site: https://yasindu.me
