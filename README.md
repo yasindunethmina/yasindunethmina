@@ -19,7 +19,7 @@ When I program, I'm leveraging the work of millions of other people, including c
 - 🌐 My portfolio site: https://yasindu.me
 - 🎓 I'm a master at writing clean-code, solving bugs and making great-interactive & responsive websites
 - ⭐ 2022's Objective: More deep dive into web development & learn new things & challenge myself! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 I'm an Ex-Game Designer switched my life to code for next 30 years
+- 🎮 I'm an Ex-Game Designer switched my life to code for next 10 years
 - 😊 I’m currently open for a new job opportunity
 <br>
 
