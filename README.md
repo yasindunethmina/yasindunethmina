@@ -95,5 +95,5 @@ When I program, I'm leveraging the work of millions of other people, including c
  <a href="https://github.com/YasinduNethmina" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
  
- 🎮 Discord: ZeroDeathzZ#0001
+ 🎮 Discord: ZeroDeathzZ#4876
  🌐 My portfolio site: https://yasindu.me
