@@ -41,7 +41,7 @@
  🌐 My portfolio site: https://yasindu.me
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-All-In-One-Crypto-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/YasinduNethmina/CryptoDora-All-In-One-Crypto-App)
-## Statistics ‎‍💻
+## Programming Journey 👨‍💻
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindunethmina&layout=compact&theme=chartreuse-dark&count_private=true" />
