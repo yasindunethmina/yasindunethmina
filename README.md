@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Yasindu%20Nethmina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20/%20Mobile%20Developer%20(React%20js,%20React%20Native)&descAlignY=51&descAlign=62)
 
 <p>
@@ -38,21 +39,15 @@
     <img src="https://img.shields.io/youtube/channel/views/UC0NtdkyM5oIhxDTKsxO7bbA?color=red&label=Email&logo=Email&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
-
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=Web3-NFT-User-Authentication&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Web3-NFT-User-Authentication)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=NFT-Bridge-Web3-Portal-NextJS-EthersJS&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/NFT-Bridge-Web3-Portal-NextJS-EthersJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=N2D-NFT-Marketplace&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/N2D-NFT-Marketplace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=AmazingWeb3-NFTStake-Mint-FrontEnd&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/AmazingWeb3-NFTStake-Mint-FrontEnd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=net2devcrypto&repo=Alchemy-SDK-Quick-NFT-Market&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-All-In-One-Crypto-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/YasinduNethmina/CryptoDora-All-In-One-Crypto-App)
 ## Statistics
 
 <div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=net2devcrypto&layout=compact&theme=chartreuse-dark&count_private=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindunethmina&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=net2devcrypto&theme=chartreuse-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yasindunethmina&theme=chartreuse-dark" />
 </div>
 <h3 align="left">Languages, Skills and Tools</h3>
 <p align="left"> <a> <img
@@ -99,7 +94,7 @@
 </p>
 
 ## Achievements
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/net2devcrypto?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
-<a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="https://i.ibb.co/QHJty8y/skyline.jpg" alt="2022 GitHub Skyline" width="45%" /></a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yasindunethmina?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
+<a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="https://i.ibb.co/QHJty8y/skyline.jpg" alt="2022 GitHub Skyline" width="64%" height="220" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYasinduNethmina&count_bg=%23893DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
