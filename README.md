@@ -100,6 +100,8 @@
 
 ## Achievements
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/net2devcrypto?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
-<a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="[https://github.com/yasindunethmina/blob/main/skyline.jpg](https://github.com/YasinduNethmina/YasinduNethmina/blob/main/skyline.jpg)" alt="2022 GitHub Skyline" width="45%" /></a>
+<a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="https://github.com/net2devcrypto/misc/blob/main/skyline-github.png" alt="2022 GitHub Skyline" width="45%" /></a>
+  
+  <a href="https://ibb.co/4SF3hsh"><img src="https://i.ibb.co/QHJty8y/skyline.jpg" alt="skyline" width="45%" border="0"></a>
 
 ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
