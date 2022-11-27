@@ -46,6 +46,7 @@
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindunethmina&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
+  </br>
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=yasindunethmina&theme=chartreuse-dark" />
 </div>
