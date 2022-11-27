@@ -38,7 +38,7 @@
  🎮 Discord: ZeroDeathzZ#0001
  🌐 My portfolio site: https://yasindu.me
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-All-In-One-Crypto-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/YasinduNethmina/CryptoDora-All-In-Cryptocurrency-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-All-In-Cryptocurrency-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/YasinduNethmina/CryptoDora-All-In-One-Crypto-App)
 ## Programming Timeline 👨‍💻
 
 <div align="center">
