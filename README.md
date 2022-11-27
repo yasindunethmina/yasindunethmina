@@ -30,7 +30,7 @@
 
 <h3>💥Top React Side Project Live Link</h3>
 
-<a href="http://youtube.a3b.io" target="_blank"><img src="https://imgflip.com/gif/72a546" width="468" height="60"/><h2>Connect With Me 👇</h2>
+<a href="http://youtube.a3b.io" target="_blank"><a href="https://imgflip.com/gif/72a546" width="468" height="60"/><h2>Connect With Me 👇</h2>
  <p align='left'>
    <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/yasinduneth" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
