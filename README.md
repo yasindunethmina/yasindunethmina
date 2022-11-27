@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Yasindu%20Nethmina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20/%20Mobile%20Developer%20(React%20js,%20React%20Native)&descAlignY=51&descAlign=62)
 
-<div class='row'>
-  <a>
-<img src="https://github.com/net2devcrypto/misc/blob/main/ethereumlogo.png" width="150" height="40" class='mr-2'/>
-<img src="https://github.com/net2devcrypto/misc/blob/main/polygonwhite2.png" width="150" height="40"/>
-<img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
-</a>
-  </div>
 
 [![net2dev.eth](https://img.shields.io/badge/net2dev.eth-2b5b84?&message=net2dev.eth&style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
 <img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/public/alchemy-white.png" width="200" height="45"/>
@@ -106,7 +99,7 @@
 
 ## Achievements
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/net2devcrypto?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
-<a href="https://skyline.github.com/net2devcrypto/2021" title="2021 GitHub Skyline"><img src="https://github.com/net2devcrypto/misc/blob/main/skyline-github.png" alt="2020 GitHub Skyline" width="45%" /></a>
+<a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="https://github.com/net2devcrypto/misc/blob/main/skyline-github.png" alt="2020 GitHub Skyline" width="45%" /></a>
 
 ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
 
