@@ -102,4 +102,4 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/net2devcrypto?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
 <a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="https://i.ibb.co/QHJty8y/skyline.jpg" alt="2022 GitHub Skyline" width="45%" /></a>
 
-![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYasinduNethmina&count_bg=%23893DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
