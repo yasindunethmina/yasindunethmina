@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Yasindu%20Nethmina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20/%20Mobile%20Developer%20(React%20js,%20React%20Native)&descAlignY=51&descAlign=62)
 
-
-[![net2dev.eth](https://img.shields.io/badge/net2dev.eth-2b5b84?&message=net2dev.eth&style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=net2dev.eth)
-<img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/public/alchemy-white.png" width="200" height="45"/>
-
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=net2devcrypto&theme=algolia&row=1&column=4&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yasindunethmina&theme=algolia&row=1&column=4&margin-w=5" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -22,6 +18,11 @@
 <br>
 ![Solidity](https://img.shields.io/badge/solidity-2b5b84?&style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/ethereum-2b5b84?&style=for-the-badge&logo=ethereum&logoColor=white)
+    <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="55px"></a>
+    <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="55px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="55px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpce_C3eRHbmi-PngRYM8d4CkGkG6oXiw1NS5ER54G8yM4K4eNWQk0q495i_63egxDaU&usqp=CAU" width="55px"></a>
+
 
 
 <h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
