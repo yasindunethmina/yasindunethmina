@@ -32,8 +32,6 @@
  <p align='left'>
    <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/yasinduneth" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://medium.com/@yasindu" target="_blank"><img height="25" src="https://miro.medium.com/max/1400/1*nik5P5FozoT3DcZsuSvV8w.png"></a>&nbsp;&nbsp;
  <a href="https://github.com/YasinduNethmina" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="19" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
 
