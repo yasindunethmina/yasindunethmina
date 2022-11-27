@@ -16,20 +16,28 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 <br>
-![Solidity](https://img.shields.io/badge/solidity-2b5b84?&style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/ethereum-2b5b84?&style=for-the-badge&logo=ethereum&logoColor=white)
     <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="55px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="55px"></a>
      <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="55px"></a>
      <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpce_C3eRHbmi-PngRYM8d4CkGkG6oXiw1NS5ER54G8yM4K4eNWQk0q495i_63egxDaU&usqp=CAU" width="55px"></a>
+     <a href="https://github.com/YasinduNethmina"><img alt="GraphQL" src="https://img.icons8.com/color/344/graphql.png" width="60px"></a>
+<a href="https://github.com/YasinduNethmina"><img alt="REST" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="60px"></a>
+<a href="https://github.com/YasinduNethmina"><img alt="AWS" src="https://img.icons8.com/color/344/amazon-web-services.png" width="60px"></a>
+<a href="https://github.com/YasinduNethmina"><img alt="MongoDB" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="60px"></a>
+<a href="https://github.com/YasinduNethmina"><img alt="Firebase" src="https://img.icons8.com/color/344/firebase.png" width="60px"></a>
+<a href="https://github.com/YasinduNethmina"><img alt="Terminal" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" width="60px"></a>
+<a href="https://github.com/YasinduNethmina"><img alt="VSCode" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="60px"></a>
+
+<a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/git.png" width="60px"></a>
+
+<a href="https://github.com/YasinduNethmina"><img alt="Git" src="https://img.icons8.com/color/344/figma--v1.png" width="60px"></a>
 
 
-
-<h3>💥Top Web3 & Blockchain Tutorial Reference Repositories</h3>
+<h3>💥Top React Side Project Repository</h3>
 
 <a href="http://youtube.a3b.io" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/gif.gif" width="468" height="60"/><h2>Official Github YouTube Repo -- Follow me! </h2>
   <p align="left">
-  <a href="https://www.youtube.com/channel/UC0NtdkyM5oIhxDTKsxO7bbA">
+  <a href="https://github.com/YasinduNethmina/CryptoDora-All-In-One-Crypto-App">
     <img src="https://img.shields.io/youtube/channel/views/UC0NtdkyM5oIhxDTKsxO7bbA?color=green&label=Youtube&logo=Youtube&style=for-the-badge" alt="Net2Dev YouTube channel"/>
   </a>
 </p>
@@ -103,4 +111,3 @@
 <a href="https://skyline.github.com/yasindunethmina/2022" title="2022 GitHub Skyline"><img src="https://github.com/net2devcrypto/misc/blob/main/skyline-github.png" alt="2020 GitHub Skyline" width="45%" /></a>
 
 ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
-
