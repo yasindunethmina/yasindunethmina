@@ -16,7 +16,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 <br>
-    <a href="https://github.com/YasinduNethmina"><img alt="React Js" src="https://img.icons8.com/office/344/react.png" width="44px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="44px"></a>
     <a href="https://github.com/YasinduNethmina"><img alt="Tailwind" src="https://img.icons8.com/color/512/tailwind_css.png" width="44px"></a>
      <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="40px"></a>
