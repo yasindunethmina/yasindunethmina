@@ -42,7 +42,7 @@
 ## Programming Timeline 👨‍💻
 
 <div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindunethmina&layout=compact&theme=chartreuse-dark&count_private=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
   </br>
 <div align="center">
