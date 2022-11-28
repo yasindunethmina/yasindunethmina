@@ -38,7 +38,7 @@
  🎮 Discord: ZeroDeathzZ#0001
  🌐 My portfolio site: https://yasindu.me
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 ## Programming Timeline 👨‍💻
 
 <div align="center">
