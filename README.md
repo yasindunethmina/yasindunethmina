@@ -45,6 +45,8 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduNethmina&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
   </br>
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasindunethmina&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Achievements
