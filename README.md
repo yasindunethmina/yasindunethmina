@@ -45,9 +45,7 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduNethmina&layout=compact&theme=chartreuse-dark&count_private=true" />
 </div>
   </br>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yasindunethmina&theme=chartreuse-dark" />
-</div>
+
 
 ## Achievements
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yasindunethmina?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/YasinduNethmina)
