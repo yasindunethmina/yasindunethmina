@@ -36,9 +36,10 @@
  <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="19" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
 
  🎮 Discord: ZeroDeathzZ#0001
- 🌐 My portfolio site: https://yasindu.me
+ 🌐 My portfolio site: https://www.yasindu.me
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-Crypto-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/CryptoDora-Crypto-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=portfolio-app&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/portfolio-app)
 ## Programming Timeline 👨‍💻
 
 <div align="center">
