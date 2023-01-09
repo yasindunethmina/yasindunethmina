@@ -50,7 +50,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-Crypto-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/CryptoDora-Crypto-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=NFT-Marketplace&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/NFT-Marketplace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=portfolio-app&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/portfolio-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=Portfolio-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/Portfolio-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=ecommerce&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/ecommerce)
 
 ## Programming Timeline 👨‍💻
 
