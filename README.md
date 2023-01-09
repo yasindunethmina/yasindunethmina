@@ -27,9 +27,9 @@
 <a href="https://github.com/YasinduNethmina"><img alt="Figma" src="https://img.icons8.com/color/344/figma--v1.png" width="44px"></a>
 <br>
 <h3>💥My Top Side Projects</h3>
-<a href="https://cryptodora-app.web.app/" rel="noopener noreferrer" target="_blank"><img src="https://i.ibb.co/Dg7tpQY/72a52m.gif" alt="crypto-dora" width="340" height="200" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nft-marketplace-puce-omega.vercel.app" rel="noopener noreferrer" target="_blank"><img src="https://i.ibb.co/P9Y4JH4/Screenshot-2023-01-09-103602.jpg" alt="NFT Marketplace" width="340" height="200" border="0" /></a></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.yasindu.me/" rel="noopener noreferrer" target="_blank"><img src="https://i.ibb.co/4f90Qp2/73mlgd.gif" alt="portfolio" width="340" height="200" border="0"></a>
+<a href="https://cryptodora-app.web.app/"><img src="https://i.ibb.co/tcVNBJw/website-portfolio-allocation-dark.jpg" alt="cryptodora" border="0" width="340" height="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nft-marketplace-puce-omega.vercel.app/" rel="noopener noreferrer" target="_blank"><img src="https://i.ibb.co/P9Y4JH4/Screenshot-2023-01-09-103602.jpg" alt="NFT Marketplace" width="340" height="200" border="0" /></a></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.yasindu.me/"><img src="https://i.ibb.co/sP4Tb36/Screenshot-2023-01-09-104443.jpg" alt="portfolio" border="0" width="340" height="200"></a>
 <a href="http://youtube.a3b.io" target="_blank"><a href="https://imgflip.com/gif/72a546" width="468" height="60"/><h2>Connect With Me 👇</h2>
  <p align='left'>
    <a href="https://www.linkedin.com/in/yasinduneth/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
