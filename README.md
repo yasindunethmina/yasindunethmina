@@ -5,6 +5,7 @@
 </p>
 <br>
 
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,11 +25,16 @@
 <a href="https://github.com/YasinduNethmina"><img alt="MongoDB" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="44px"></a>
 <a href="https://github.com/YasinduNethmina"><img alt="Firebase" src="https://img.icons8.com/color/344/firebase.png" width="44px"></a>
 <a href="https://github.com/YasinduNethmina"><img alt="Figma" src="https://img.icons8.com/color/344/figma--v1.png" width="44px"></a>
+</p>
 <br>
+
 <h3>💥My Top Side Projects</h3>
+
+<p align="center">
 <a href="https://cryptodora-app.web.app/" target="_blank" rel="noopener"><img src="https://i.ibb.co/HCRxzVF/website-main-dark.jpg" alt="cryptodora" border="0" width="320" height="200"></a>&nbsp;&nbsp;
 <a href="https://nft-marketplace-sovq9dcag-yasindunethmina.vercel.app/" target="_blank" rel="noopener"><img src="https://i.ibb.co/P9Y4JH4/Screenshot-2023-01-09-103602.jpg" alt="NFT Marketplace" width="320" height="200" border="0" /></a>&nbsp;&nbsp;
 <a href="https://www.yasindu.me/" target="_blank" rel="noopener"><img src="https://i.ibb.co/7zD3jyR/Screenshot-2023-01-09-104443.jpg" alt="portfolio" border="0" width="320" height="200"></a>
+</p>
 
 <a href="http://youtube.a3b.io" target="_blank"><a href="https://imgflip.com/gif/72a546" width="468" height="60"/><h2>Connect With Me 👇</h2>
  <p align='left'>
