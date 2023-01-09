@@ -30,7 +30,7 @@
 <a href="https://github.com/YasinduNethmina"><img alt="Figma" src="https://img.icons8.com/color/344/figma--v1.png" width="44px"></a>
 </p>
 
-<h3>💥My Top Side Projects</h3>
+<h3>💥Top Side Projects</h3>
 
 <p align="center">
 <a href="https://cryptodora-app.web.app/" target="_blank" rel="noopener"><img src="https://i.ibb.co/HCRxzVF/website-main-dark.jpg" alt="cryptodora" border="0" width="260" height="150"></a>&nbsp;&nbsp;
