@@ -28,9 +28,7 @@
 <br>
 <h3>💥My Top Side Projects</h3>
 <a href="https://cryptodora-app.web.app/"><img src="https://i.ibb.co/HCRxzVF/website-main-dark.jpg" alt="cryptodora" border="0" width="340" height="200"></a>&nbsp;&nbsp;
-
-<a href="https://nft-marketplace-puce-omega.vercel.app/"><img src="https://i.ibb.co/P9Y4JH4/Screenshot-2023-01-09-103602.jpg" alt="NFT Marketplace" width="340" height="200" border="0" /></a>&nbsp;
-
+<a href="https://nft-marketplace-puce-omega.vercel.app/"><img src="https://i.ibb.co/P9Y4JH4/Screenshot-2023-01-09-103602.jpg" alt="NFT Marketplace" width="340" height="200" border="0" /></a>&nbsp;&nbsp;
 <a href="https://www.yasindu.me/"><img src="https://i.ibb.co/7zD3jyR/Screenshot-2023-01-09-104443.jpg" alt="portfolio" border="0" width="340" height="200"></a>
 
 <a href="http://youtube.a3b.io" target="_blank"><a href="https://imgflip.com/gif/72a546" width="468" height="60"/><h2>Connect With Me 👇</h2>
