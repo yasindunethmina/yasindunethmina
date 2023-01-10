@@ -4,7 +4,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yasindunethmina&theme=algolia&row=1&column=4&margin-w=5" />
 </p>
 
-
 <center>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -47,7 +46,7 @@
  <a href="mailto:yasindunethmina1938096@gmail.com" target="_blank"><img height="19" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png"></a>&nbsp;&nbsp;
 
  🎮 Discord: ZeroDeathzZ#0001
- 🌐 My portfolio site: https://www.yasindu.me
+ 🌐 My portfolio : https://www.yasindu.me
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=CryptoDora-Crypto-App&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/CryptoDora-Crypto-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasindunethmina&repo=NFT-Marketplace&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/yasindunethmina/NFT-Marketplace)
