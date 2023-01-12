@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://cryptodora-app.web.app/" target="_blank" rel="noopener"><img src="https://i.ibb.co/HCRxzVF/website-main-dark.jpg" alt="cryptodora" border="0" width="260" height="150"></a>&nbsp;&nbsp;
 <a href="https://nft-marketplace-sovq9dcag-yasindunethmina.vercel.app/" target="_blank" rel="noopener"><img src="https://i.ibb.co/P9Y4JH4/Screenshot-2023-01-09-103602.jpg" alt="NFT Marketplace" width="260" height="150" border="0" /></a>&nbsp;&nbsp;
-<a href="https://www.yasindu.me/" target="_blank" rel="noopener"><img src="https://i.ibb.co/7zD3jyR/Screenshot-2023-01-09-104443.jpg" alt="portfolio" border="0" width="260" height="150"></a>
+<a href="https://www.yasindu.me/" target="_blank" rel="noopener"><img src="https://i.ibb.co/7zD3jyR/Screenshot-2023-01-09-104443.jpg" alt="portfolio" border="0" width="260" height="150"> </a>
 </p>
 
 <a href="http://youtube.a3b.io" target="_blank"><a href="https://imgflip.com/gif/72a546" width="468" height="60"/><h2>Connect With Me 👇</h2>
