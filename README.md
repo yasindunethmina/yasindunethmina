@@ -18,7 +18,7 @@
 
 </center>
 
-<p align="center"> 
+<p align="center">  
 <a href="https://github.com/YasinduNethmina"><img alt="Redux" src="https://img.icons8.com/color/344/redux.png" width="44px"></a>
 <a href="https://github.com/YasinduNethmina"><img alt="Tailwind" src="https://img.icons8.com/color/512/tailwind_css.png" width="44px"></a>
 <a href="https://github.com/YasinduNethmina"><img alt="Next Js" src="https://img.stackshare.io/service/5936/nextjs.png" width="40px"></a>
