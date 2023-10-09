@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Yasindu%20Nethmina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20/%20Mobile%20Developer%20(React%20js,%20Next%20Js)&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=260&section=header&text=Yasindu%20Nethmina&fontSize=70&animation=fadeIn&fontAlignY=38&desc=FullStack%20Web3%20Developer&descAlignY=51&descAlign=62)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yasindunethmina&theme=algolia&row=1&column=4&margin-w=5" />
