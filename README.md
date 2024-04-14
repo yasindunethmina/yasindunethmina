@@ -13,7 +13,7 @@
   <li>🌱 I'm constantly learning more about <strong>smart contracts</strong>, <strong>cross-chain development techniques</strong>, and <strong>on-chain data analysis</strong>.</li>
   <li>💬 Feel free to reach out to me about <strong>full-stack development</strong>, <strong>web3 technologies</strong>, and <strong>smart contracts</strong> related stuff.</li>
   <li>📙Check out my <a href="">resume</a>.</li>
-  <li>🥛 Fun Fact: I prefer <strong>milk</strong> over coffee when fueling my coding sessions.</li>
+  <li>🥛 Fun Fact: I prefer <strong>milk</strong> over coffee.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
