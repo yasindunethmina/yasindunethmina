@@ -5,7 +5,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdmMTBxdmYwZ3g0NHR6NWpyMmZwaXB1YnJjd2t1ODdiaGk4NzMzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxixvW5krNTKLVOKDp/giphy.gif"
 />
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ Quick Bits About Me</h2>
 <ul>
   <li>💼 I have extensive experience building blockchain applications.</li>
   <li>🔐 Most of the projects I've worked on are private due to client confidentiality at the company I work for.</li>
@@ -14,7 +14,7 @@
   <li>🌐 Have a look at my <a href="https://yasindu.me">website.</a>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 My Toolbox</h2>
 
 <p align="left">
   <img
