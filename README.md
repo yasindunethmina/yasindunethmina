@@ -7,14 +7,11 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I'm currently working on several exciting projects, including an NFT marketplace & launchpad that locks liquidity into every NFT on the platform.</li>
-  <li>💼 I have extensive experience building NFT platforms, cross-chain swappers, and various DeFi platforms & dApps.</li>
+  <li>💼 I have extensive experience building blockchain applications.</li>
   <li>🔐 Most of the projects I've worked on are private due to client confidentiality at the company I work for.</li>
-  <li>🌱 I'm constantly learning more about <strong>smart contracts</strong>, <strong>cross-chain development techniques</strong>, and <strong>on-chain data analysis</strong>.</li>
   <li>💬 Feel free to reach out to me about <strong>full-stack development</strong>, <strong>web3 technologies</strong>, and <strong>smart contracts</strong> related stuff.</li>
   <li>📙Check out my <a href="https://drive.google.com/file/d/1cHtP2WlLKKQ80gU1j1s7qrgeEABOrwF2/view?usp=sharing">resume</a>.</li>
   <li>🌐 Have a look at my <a href="https://yasindu.me">website.</a>
-  <li>🥛 Fun Fact: I prefer <strong>milk</strong> over coffee.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
