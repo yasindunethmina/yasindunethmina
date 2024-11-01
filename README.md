@@ -1,131 +1,53 @@
-<h2>Hello there 👋, I'm <a href="https://www.yasindu.me">Yasindu Nethmina</a></h2>  <p> I'm currently working as a remote Full Stack Web3 Developer</p>  <p><a href="https://www.yasindu.me"><img src="https://img.shields.io/badge/-yasindu.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://www.yasindu.me" alt="Website Badge"/></a>  <a href="https://www.linkedin.com/in/yasinduneth/"><img src="https://img.shields.io/badge/-@yasindunethmina-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/yasinduneth/" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/yasinduneth"><img src="https://img.shields.io/badge/-@yasinduneth-FFF?style=flat-square&amp;labelColor=FFF&amp;logo=Twitter&amp;link=https://twitter.com/yasinduneth" alt="Twitter Badge"/></a> <img src="https://img.shields.io/badge/-zerodeathzz-313338?style=flat-square&amp;labelColor=313338&amp;logo=Discord&amp;link=mailto:zerodeathzz" alt="Discord Badge"/> <a href="mailto:contact@yasindu.me"><img src="https://img.shields.io/badge/-@contact@yasindu.me-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Gmail&amp;link=mailto:contact@yasindu.me" alt="Gmail Badge"/></a>
+<h2>Hello there 👋, I'm <a href="https://www.yasindu.me">Yasindu Nethmina</a></h2>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdmMTBxdmYwZ3g0NHR6NWpyMmZwaXB1YnJjd2t1ODdiaGk4NzMzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxixvW5krNTKLVOKDp/giphy.gif" />
+Senior Full Stack Web3 Developer with over three years of expertise in building high-performance decentralized applications.
 
-<h2>⚡️ Quick Bits About Me</h2>
-<ul>
-  <li>💼 I have extensive experience developing blockchain applications</li>
-  <li>🔐 Most of the projects I've worked on are private due to client confidentiality at the company I work for, but you can check out some of them in my portfolio</li>
-  <li>📙 Check out my <a href="https://drive.google.com/file/d/1cHtP2WlLKKQ80gU1j1s7qrgeEABOrwF2/view?usp=sharing">resume</a></li>
-  <li>🌐 Have a look at my <a href="https://yasindu.me">website</a></li>
-  <li>💬 Feel free to reach out to me for any inquiries via contact@yasindu.me</li>
-</ul>
+<h2>⚡️ About Me</h2>
 
-<h2>🛠️ My Toolbox</h2>
+- 🚀 Leading development of innovative blockchain solutions at [Dappd](https://dappd.net)
+- 💻 Focused on Web3 development specializing in DeFi protocols, NFT marketplaces, GameFi solutions, and cross-chain integrations
+- 🔧 Experienced in developing high-performance user interfaces, complex frontend architectures, and scalable web applications
+- ⚡ Specialized in designing scalable backend architectures, database optimizations, and automated deployment infrastructures
+- 🌐 Portfolio: Explore my work at [yasindu.me](https://yasindu.me)
+- 📄 Experience: Check out my [resume](https://drive.google.com/file/d/1cHtP2WlLKKQ80gU1j1s7qrgeEABOrwF2/view?usp=sharing)
+- 📧 Open for collaborations: contact@yasindu.me
 
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-    alt="nextjs"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-    alt="sass"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="tailwind"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560"
-    alt="zustand"
-    width="35"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
-    alt="graphql"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4"
-    alt="trpc"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp"
-    alt="nodejs"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-    alt="mongodb"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-    alt="postgresql"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-    alt="docker"
-    width="25"
-    height="25"
-  />
-    <img
-    src="https://viem.sh/logo-light-hug.svg"
-    alt="viem"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png"
-    alt="ethers"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://tenderly.co/_next/static/media/tenderly.7b1ed4c8.svg"
-    alt="tenderly"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="25"
-    height="25"
-  />
-</p>
+<h2>🛠️ Technical Expertise</h2>
+
+**Frontend Development**
+- React, Next.js, TypeScript, JavaScript
+- State Management: Redux, Zustand
+- Styling: Tailwind CSS, Shadcn, CSS, SCSS, Material UI
+
+**Blockchain & Web3**
+- Smart Contract Integration: Wagmi, Viem, Ethers.js, Solidity
+- Web3 Tools: IPFS, The Graph, Moralis, Thirdweb
+- Cross-chain Development & Protocol Integration
+
+**Backend & Infrastructure**
+- Node.js, Express, Nest.js
+- APIs: REST, tRPC, GraphQL
+- Databases: PostgreSQL, MongoDB, Prisma
+- DevOps: Docker, Vercel, GCP, AWS, CI/CD
+
+<h2>🚀 Featured Projects</h2>
+
+**💧 Liquid NFTs** | [View Details](https://yasindu.me/#liquid-nfts)
+- Developed NFT marketplace with bulk asset creation and optimized media processing pipelines supporting 10,000+ sequential uploads
+- Engineered reactive trading interfaces with event listeners for real-time market activities and stats updates
+- Implemented dynamic collection filtering with optimized pagination and infinite scrolling to minimize production costs
+- Built efficient CSV-to-JSON parsers for automated metadata generation and batch processing capabilities
+
+**📊 Block Central** | [View Details](https://yasindu.me/#block-central)
+- Architected real-time DeFi analytics dashboard with automated portfolio tracking and performance metrics
+- Built interactive data visualizations for monitoring token holdings, staking positions, and farming rewards
+- Developed cross-chain bridging interfaces and staking protocols supporting multiple networks
+- Integrated real-time price feeds and statistics using oracles
+
+**⚡ xSurge** | [View Details](https://yasindu.me/#xsurge)
+- Engineered core protocol components for an innovative appreciating stable token platform
+- Developed comprehensive portfolio dashboard with token swap interfaces, staking and farming mechanisms
+- Led system architecture redesign and migration to V2, implementing robust error handling and optimized gas consumption
+- Introduced new protocol utilities driving significant community adoption
+
+*Note: These are enterprise applications developed for clients, and their source code remains private due to confidentiality agreements. However, you can explore the live implementations through the links above.*
