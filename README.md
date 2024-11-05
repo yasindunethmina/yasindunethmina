@@ -5,9 +5,6 @@ Senior Full Stack Web3 Developer with over three years of expertise in building 
 <h2>⚡️ About Me</h2>
 
 - 🚀 Leading development of innovative blockchain solutions at [Dappd](https://dappd.net)
-- 💻 Focused on Web3 development specializing in DeFi protocols, NFT marketplaces, GameFi solutions, and cross-chain integrations
-- 🔧 Experienced in developing high-performance user interfaces, complex frontend architectures, and scalable web applications
-- ⚡ Specialized in designing scalable backend architectures, database optimizations, and automated deployment infrastructures
 - 🌐 Portfolio: Explore my work at [yasindu.me](https://yasindu.me)
 - 📄 Experience: Check out my [resume](https://drive.google.com/file/d/1cHtP2WlLKKQ80gU1j1s7qrgeEABOrwF2/view?usp=sharing)
 - 📧 Open for collaborations: contact@yasindu.me
