@@ -22,7 +22,7 @@ Senior Full Stack Web3 Developer with over three years of expertise in building 
 - Cross-chain Development & Protocol Integration
 
 **Backend & Infrastructure**
-- Golang, Node.js, Express, Nest.js
+- Go, Node.js, Express, Nest.js
 - APIs: REST, tRPC, GraphQL
 - Databases: PostgreSQL, MongoDB, Prisma
 - DevOps: Docker, Vercel, GCP, AWS, CI/CD
