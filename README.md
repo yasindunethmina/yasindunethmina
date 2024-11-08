@@ -1,6 +1,6 @@
 <h2>Hello there 👋, I'm <a href="https://www.yasindu.me">Yasindu Nethmina</a></h2>
 
-Senior Full Stack Web3 Developer with over three years of expertise in building high-performance decentralized applications.
+Senior Full Stack Blockchain Engineer with 3+ years of expertise in building high-performance decentralized applications.
 
 <h2>⚡️ About Me</h2>
 
