@@ -50,19 +50,19 @@
 - **Performance Optimization:** Reduced blockchain endpoint costs by 70% through strategic optimization
 - **Scalable Media Processing:** Built hybrid storage architecture (IPFS/PostgreSQL) supporting 10,000+ batch uploads, reducing load times from 3s to 500ms
 
-### **🎮 GameFi Infrastructure** | *Leet Game Studio*
-*June 2021 - February 2023*
-
-- **Scalable Backend:** Architected GameFi infrastructure using Nest.js and WebSocket protocols, scaling to 1,000+ concurrent users
-- **Grant Achievement:** Led innovative development that secured a $100K Arbitrum grant for gameplay features
-- **Real-Time Gaming:** Implemented WebSocket-based real-time multiplayer systems
-
 ### **🤖 GPT Wars AI** | [Live Project](https://www.gptwars.ai)
 *July 2024 - September 2024*
 
 - **3D Interactive Experience:** Crafted launch website using Three.js and Next.js with WebGL-optimized 3D models
 - **Funding Success:** Interactive platform played key role in securing successful seed funding
 - **Performance Focus:** Implemented seamless animations and optimized rendering for premium user experience
+
+### **🎮 GameFi Infrastructure** | *Leet Game Studio*
+*June 2021 - February 2023*
+
+- **Scalable Backend:** Architected GameFi infrastructure using Nest.js and WebSocket protocols, scaling to 1,000+ concurrent users
+- **Grant Achievement:** Led innovative development that secured a $100K Arbitrum grant for gameplay features
+- **Real-Time Gaming:** Implemented WebSocket-based real-time multiplayer systems
 
 ## 🤝 Let's Connect
 
