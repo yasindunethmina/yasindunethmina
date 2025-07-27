@@ -34,7 +34,7 @@
 ### **💎 ProtoKOLs Platform** | [Live Project](https://www.protokols.io)
 *November 2024 - Present*
 
-- Building an AI-powered KOL insights and crypto mindshare analytics platform at ProtoKOLs, turning complex data into actionable insights.
+- Building an AI-powered KOL insights and crypto mindshare analytics platform at ProtoKOLs, turning complex data into actionable insights
 
 ### **📊 Block Central DeFi Dashboard** | [Live Project](https://app.blockcentral.io)
 *March 2023 - October 2024*
