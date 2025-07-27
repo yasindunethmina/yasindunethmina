@@ -1,50 +1,71 @@
-<h2>Hello there 👋, I'm <a href="https://www.yasindu.me">Yasindu Nethmina</a></h2>
+# Hello there 👋, I'm [Yasindu Nethmina](https://www.yasindu.me)
 
-Senior Full Stack Blockchain Engineer with 3+ years of expertise in building high-performance decentralized applications.
+**Senior Full Stack Engineer** with 4+ years of expertise in React, Next.js, and TypeScript, specializing in frontend, backend, blockchain, and AI integrations. Currently architecting robust, data-intensive applications in dynamic, fast-paced startup environments.
 
-<h2>⚡️ About Me</h2>
+## ⚡️ About Me
 
-- 🚀 Leading development of innovative blockchain solutions at [Dappd](https://dappd.net)
-- 🌐 Portfolio: Explore my work at [yasindu.me](https://yasindu.me)
-- 📄 Experience: Check out my [resume](https://drive.google.com/file/d/1cHtP2WlLKKQ80gU1j1s7qrgeEABOrwF2/view?usp=sharing)
-- 📧 Open for collaborations: contact@yasindu.me
+- 🚀 Currently working at [ProtoKOLs](https://www.protokols.io) - Transforming complex data into actionable insights for KOLs & Projects
+- 🌐 **Portfolio:** Explore my work at [yasindu.me](https://www.yasindu.me)
+- 📧 **Contact:** Open for collaborations at contact@yasindu.me
+- 📍 **Location:** Sri Lanka (Open for Remote Work)
 
-<h2>🛠️ Technical Expertise</h2>
+## 🛠️ Technical Expertise
 
-**Frontend Development**
-- React, Next.js, TypeScript, JavaScript
-- State Management: Redux, Zustand
-- Styling: Tailwind CSS, Shadcn, CSS, SCSS, Material UI
+### **Frontend Development**
+- **Frameworks & Libraries:** React, Next.js
+- **Languages:** TypeScript, JavaScript
+- **State Management:** Redux, Zustand, Tanstack Query
+- **Styling:** Tailwind CSS, Shadcn, HTML, CSS
+- **Testing and Logging:** Sentry, Jest
 
-**Blockchain & Web3**
-- Smart Contract Integration: Wagmi, Viem, Ethers.js, Solidity
-- Web3 Tools: IPFS, The Graph, Moralis, Thirdweb
-- Cross-chain Development & Protocol Integration
+### **Backend & Infrastructure**
+- **Runtime & Frameworks:** Node.js, Express, Nest.js
+- **APIs:** REST, tRPC, GraphQL, WebSocket
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **ORMs:** Prisma, Drizzle
+- **DevOps:** Docker, AWS, GitHub Actions (CI/CD), BullMQ
 
-**Backend & Infrastructure**
-- Go, Node.js, Express, Nest.js
-- APIs: REST, tRPC, GraphQL
-- Databases: PostgreSQL, MongoDB, Prisma
-- DevOps: Docker, Vercel, GCP, AWS, CI/CD
+### **Blockchain & Web3**
+- **Smart Contracts:** Solidity, Hardhat, Tenderly
+- **Integration:** Wagmi, Viem, Ethers.js
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-**💧 Liquid NFTs** | [View Details](https://yasindu.me/#liquid-nfts)
-- Developed NFT marketplace with bulk asset creation and optimized media processing pipelines supporting 10,000+ sequential uploads
-- Engineered reactive trading interfaces with event listeners for real-time market activities and stats updates
-- Implemented dynamic collection filtering with optimized pagination and infinite scrolling to minimize production costs
-- Built efficient CSV-to-JSON parsers for automated metadata generation and batch processing capabilities
+### **💎 ProtoKOLs Platform** | [Live Project](https://www.protokols.io)
+*November 2024 - Present*
 
-**📊 Block Central** | [View Details](https://yasindu.me/#block-central)
-- Architected real-time DeFi analytics dashboard with automated portfolio tracking and performance metrics
-- Built interactive data visualizations for monitoring token holdings, staking positions, and farming rewards
-- Developed cross-chain bridging interfaces and staking protocols supporting multiple networks
-- Integrated real-time price feeds and statistics using oracles
+- Building an AI-powered KOL insights and crypto mindshare analytics platform at ProtoKOLs, turning complex data into actionable insights.
 
-**⚡ xSurge** | [View Details](https://yasindu.me/#xsurge)
-- Engineered core protocol components for an innovative appreciating stable token platform
-- Developed comprehensive portfolio dashboard with token swap interfaces, staking and farming mechanisms
-- Led system architecture redesign and migration to V2, implementing robust error handling and optimized gas consumption
-- Introduced new protocol utilities driving significant community adoption
+### **📊 Block Central DeFi Dashboard** | [Live Project](https://app.blockcentral.io)
+*March 2023 - October 2024*
 
-*Note: These are enterprise applications developed for clients, and their source code remains private due to confidentiality agreements. However, you can explore the live implementations through the links above.*
+- **Real-Time DeFi Metrics:** Built comprehensive dashboard featuring live protocol metrics (TVL, APY, price charts) and token swaps with Axelar cross-chain integration
+- **Financial Performance:** Achieved $600K+ market cap through optimized user experience and feature set
+- **Staking Infrastructure:** Engineered custom staking and farming systems with APY projections, managing $450K+ in total locked assets
+
+### **💧 Liquid NFTs Marketplace** | [Live Project](https://liquidnfts.finance/)
+*March 2023 - October 2024*
+
+- **World's First Liquidity-Backed NFTs:** Engineered full-stack architecture using Next.js, TypeScript, and Solidity
+- **Performance Optimization:** Reduced blockchain endpoint costs by 70% through strategic optimization
+- **Scalable Media Processing:** Built hybrid storage architecture (IPFS/PostgreSQL) supporting 10,000+ batch uploads, reducing load times from 3s to 500ms
+
+### **🎮 GameFi Infrastructure** | *Leet Game Studio*
+*June 2021 - February 2023*
+
+- **Scalable Backend:** Architected GameFi infrastructure using Nest.js and WebSocket protocols, scaling to 1,000+ concurrent users
+- **Grant Achievement:** Led innovative development that secured a $100K Arbitrum grant for gameplay features
+- **Real-Time Gaming:** Implemented WebSocket-based real-time multiplayer systems
+
+### **🤖 GPT Wars AI** | [Live Project](https://www.gptwars.ai)
+*July 2024 - September 2024*
+
+- **3D Interactive Experience:** Crafted launch website using Three.js and Next.js with WebGL-optimized 3D models
+- **Funding Success:** Interactive platform played key role in securing successful seed funding
+- **Performance Focus:** Implemented seamless animations and optimized rendering for premium user experience
+
+## 🤝 Let's Connect
+
+- **Portfolio:** [yasindu.me](https://www.yasindu.me)
+- **LinkedIn:** [linkedin.com/in/yasinduneth](https://www.linkedin.com/in/yasinduneth)
+- **Email:** contact@yasindu.me
