@@ -4,7 +4,7 @@
 
 ## ⚡️ About Me
 
-- 🚀 Currently working at [ProtoKOLs](https://www.protokols.io) - Transforming complex data into actionable insights for KOLs & Projects
+- 🚀 Currently working at ProtoKOLs - Transforming complex data into actionable insights for KOLs & Projects
 - 🌐 **Portfolio:** Explore my work at [yasindu.me](https://www.yasindu.me)
 - 📧 **Contact:** Open for collaborations at contact@yasindu.me
 - 📍 **Location:** Sri Lanka (Open for Remote Work)
