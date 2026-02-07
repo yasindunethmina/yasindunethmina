@@ -1,11 +1,12 @@
 # Hello there 👋, I'm [Yasindu Nethmina](https://www.yasindu.me)
 
-Senior Full Stack Engineer with 4+ years of experience building scalable,
+Senior Full Stack Engineer with 5+ years of experience building scalable,
 data‑driven applications across frontend, backend, blockchain, and AI. I
 specialize in React, Next.js, TypeScript, and modern backend architectures, and
 I thrive in fast‑paced startup environments.
 
-- 🚀 Currently working at ProtoKOLs, turning complex multi‑source data into actionable
+- 🚀 Currently working at v21 Studio
+- 👨‍🍳 Prev at ProtoKOLs, turned complex multi‑source data into actionable
   insights for KOLs and projects
 - 🌐 Portfolio: https://www.yasindu.me
 - 📧 contact@yasindu.me
@@ -93,6 +94,7 @@ Note: Links below go to detailed case studies on my portfolio.
 ## 🔗 Links
 
 - Portfolio: https://www.yasindu.me
+- GitHub: https://github.com/yasindunethmina
+- Twitter (X): https://x.com/yasinduneth
 - LinkedIn: https://www.linkedin.com/in/yasinduneth
-- GitHub: https://github.com/yasinduneth
 - Email: contact@yasindu.me
