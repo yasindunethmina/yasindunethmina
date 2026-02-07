@@ -10,7 +10,6 @@ I thrive in fast‑paced startup environments.
   insights for KOLs and projects
 - 🌐 Portfolio: https://www.yasindu.me
 - 📧 contact@yasindu.me
-- 📍 Sri Lanka (Open to Remote)
 
 ## 🛠️ Technical Expertise
 
