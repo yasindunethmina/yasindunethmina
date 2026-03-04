@@ -1,13 +1,9 @@
 # Hello there 👋, I'm [Yasindu Nethmina](https://www.yasindu.me)
 
-Senior Full Stack Engineer with 5+ years of experience building scalable,
-data‑driven applications across frontend, backend, blockchain, and AI. I
-specialize in React, Next.js, TypeScript, and modern backend architectures, and
-I thrive in fast‑paced startup environments.
+Senior Full Stack Engineer with 5+ years of experience architecting and delivering scalable, data-driven web applications across AI, analytics, and modern full stack systems. I specialise in React, Next.js, TypeScript, and modern backend architectures, and thrive in fast-paced, high-output environments.
 
-- 🚀 Currently working at v21 Studio
-- 👨‍🍳 Prev at ProtoKOLs, turned complex multi‑source data into actionable
-  insights for KOLs and projects
+- 🚀 Currently working at v21 Studio as a Senior Full Stack Engineer, leading engineering across concurrent client projects for a top-tier design agency
+- 👨‍💻 Previously at ProtoKOLs, engineered AI-powered analytics pipelines processing millions of records for 100K+ tracked influencers
 - 🌐 Portfolio: https://www.yasindu.me
 - 📧 contact@yasindu.me
 
@@ -16,84 +12,68 @@ I thrive in fast‑paced startup environments.
 ### Frontend
 - React, Next.js, TypeScript, JavaScript
 - State: Redux, Zustand, TanStack Query
-- Styling/UI: Tailwind CSS, shadcn/ui, HTML, CSS
-- Testing/Monitoring: Jest, Sentry
+- Styling/UI: Tailwind CSS, Shadcn UI, Three.js
+- Monitoring: Sentry
 
 ### Backend & Infrastructure
-- Node.js, Express, Nest.js
-- APIs: REST, tRPC, GraphQL, WebSocket
+- Node.js, Express.js, NestJS
+- APIs: REST, tRPC, GraphQL, WebSockets
 - Databases: PostgreSQL, MongoDB, Redis
 - ORMs: Prisma, Drizzle
-- DevOps: Docker, AWS, GitHub Actions (CI/CD), BullMQ
+- DevOps: Docker, AWS, Supabase, Vercel, GitHub Actions (CI/CD), BullMQ
+
+### AI & Integrations
+- OpenAI API, Vercel AI SDK
+- REST APIs, WebSockets, SSE
 
 ### Blockchain & Web3
 - Solidity, Hardhat, Tenderly
 - Integrations: Wagmi, Viem, Ethers.js
-- Indexing/Infra: Subgraphs, The Graph
+- Indexing: The Graph, Subgraphs
 
-## 🚀 Featured Case Studies
+## 🚀 Featured Projects
 
-Note: Links below go to detailed case studies on my portfolio.
-
-### ProtoKOLs — Influencer Analytics Platform
+### ProtoKOLs — AI-Powered Influencer Analytics Platform
 - Case study: https://www.yasindu.me/project/protokols
-- Timeline: Nov 2024 – Present
+- Timeline: Aug 2024 – Jul 2025
 - Highlights:
-  - Led frontend architecture for KOL/project checkers, KPI dashboards, and
-    interactive charts, transforming datasets for 100K+ influencers into
-    actionable insights
-  - Scaled backend pipelines to index millions of social and on‑chain records
-    with schedulers, queues, and Redis; reduced third‑party API calls by ~40%
-    and maintained freshness with safe backfills
-  - Standardized high‑performance UI patterns (streaming, skeletons, optimistic
-    updates, resilient error states) for seamless UX with partial data
+  - Led frontend architecture for data-rich dashboards including KPI trackers, analytics checkers, and interactive charts, transforming datasets across 100K+ influencers into actionable insights
+  - Engineered cost-efficient backend systems with AI-powered data classification and smart caching, reducing third-party API costs by ~40% while maintaining data freshness at scale
+  - Implemented high-performance UI patterns including streaming, optimistic updates, and resilient error states, improving perceived performance and reliability across the platform
 
-### Block Central — DeFi Dashboard
-- Case study: https://www.yasindu.me/project/block-central
-- Timeline: Mar 2023 – Oct 2024
+### T3 Chill App — Open Source CLI Starter Kit
+- Repo: https://github.com/yasindunethmina/create-t3-chill-app
 - Highlights:
-  - Built real‑time protocol metrics (TVL, APY, price charts) and token swaps
-    with cross‑chain integration
-  - Contributed to achieving $600K+ market cap through UX and feature design
-  - Engineered staking/farming systems with APY projections, managing $450K+ TVL
+  - Built and published an interactive CLI tool that scaffolds a complete full-stack application with automated Docker orchestration, environment validation, and database setup
+  - Bundles Next.js, Supabase, tRPC, Prisma, and Stripe with auth, role-based access, and subscription billing out of the box
 
-### Liquid NFTs — Liquidity‑Backed NFT Marketplace
+### Liquid NFTs — NFT Marketplace
 - Case study: https://www.yasindu.me/project/liquid-nfts
 - Timeline: Mar 2023 – Oct 2024
 - Highlights:
-  - Full‑stack architecture with Next.js, TypeScript, Solidity
-  - Reduced blockchain endpoint costs by ~70% via strategic optimizations
-  - Hybrid media/storage (IPFS + PostgreSQL) supporting 10,000+ batch uploads;
-    improved load times from ~3s to ~500ms
+  - Full-stack architecture with Next.js, TypeScript, and Solidity
+  - Reduced blockchain endpoint costs by ~70% through strategic optimisations
+  - Hybrid media storage with IPFS and PostgreSQL supporting 10,000+ batch uploads, improving load times from ~3s to ~500ms
 
-### GPT Wars (Thinker Friends) — 3D Interactive Web Experience
-- Case study: https://www.yasindu.me/project/gpt-wars
-- Timeline: Jul 2024 – Sep 2024
-- Highlights:
-  - Three.js + WebGL experience in Next.js with optimized models and animations
-  - Supported successful seed‑round fundraising
-  - Focused on render performance and seamless interactions
-
-### Monkey Empire (Leet Game Studio) — GameFi & On‑Chain Systems
+### Monkey Empire — GameFi & On-Chain Systems
 - Timeline: Jun 2021 – Feb 2023
 - Highlights:
-  - Gameplay systems and on‑chain components (airdrops, NFT minting, rewards)
-    scaled to 10,000+ players
-  - Contributed to securing a $100K Arbitrum grant
-  - Real‑time multiplayer and backend services using Nest.js and WebSocket
+  - Built and scaled gameplay systems and on-chain components scaled to 10,000+ active players
+  - Contributed to securing a $100K Arbitrum development grant
 
-## 📄 Experience Snapshot
+## 📄 Experience
 
-- ProtoKOLs — Full‑time, Full Stack Engineer (Nov 2024 – Present)
-- Dappd — Full‑time, Full Stack Engineer (Mar 2023 – Oct 2024)
-- Thinker Friends — Part‑time, Full Stack Engineer (Jul 2024 – Sep 2024)
-- Monkey Empire (Leet Game Studio) — Full‑time, Full Stack Engineer / Game Dev
-  (Jun 2021 – Feb 2023)
+| Role | Company | Period |
+|------|---------|--------|
+| Senior Full Stack Engineer | v21 Studio | Jul 2025 – Present |
+| Full Stack Engineer | ProtoKOLs | Aug 2024 – Jul 2025 |
+| Full Stack Engineer | Dappd | Mar 2023 – Jul 2024 |
+| Full Stack Engineer & Game Developer | Monkey Empire | Jun 2021 – Feb 2023 |
 
 ## 🔗 Links
 
-- Portfolio: https://www.yasindu.me
-- GitHub: https://github.com/yasindunethmina
-- Twitter (X): https://x.com/yasinduneth
-- LinkedIn: https://www.linkedin.com/in/yasinduneth
-- Email: contact@yasindu.me
+- 🌐 Portfolio: https://www.yasindu.me
+- 💻 GitHub: https://github.com/yasindunethmina
+- 🐦 Twitter: https://x.com/yasinduneth
+- 💼 LinkedIn: https://www.linkedin.com/in/yasinduneth
+- 📧 Email: contact@yasindu.me
