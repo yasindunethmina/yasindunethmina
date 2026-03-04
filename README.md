@@ -47,20 +47,6 @@ Senior Full Stack Engineer with 5+ years of experience architecting and deliveri
   - Built and published an interactive CLI tool that scaffolds a complete full-stack application with automated Docker orchestration, environment validation, and database setup
   - Bundles Next.js, Supabase, tRPC, Prisma, and Stripe with auth, role-based access, and subscription billing out of the box
 
-### Liquid NFTs — NFT Marketplace
-- Case study: https://www.yasindu.me/project/liquid-nfts
-- Timeline: Mar 2023 – Oct 2024
-- Highlights:
-  - Full-stack architecture with Next.js, TypeScript, and Solidity
-  - Reduced blockchain endpoint costs by ~70% through strategic optimisations
-  - Hybrid media storage with IPFS and PostgreSQL supporting 10,000+ batch uploads, improving load times from ~3s to ~500ms
-
-### Monkey Empire — GameFi & On-Chain Systems
-- Timeline: Jun 2021 – Feb 2023
-- Highlights:
-  - Built and scaled gameplay systems and on-chain components scaled to 10,000+ active players
-  - Contributed to securing a $100K Arbitrum development grant
-
 ## 📄 Experience
 
 | Role | Company | Period |
@@ -68,6 +54,7 @@ Senior Full Stack Engineer with 5+ years of experience architecting and deliveri
 | Senior Full Stack Engineer | v21 Studio | Jul 2025 – Mar 2026 |
 | Full Stack Engineer | ProtoKOLs | Aug 2024 – Jul 2025 |
 | Full Stack Engineer | Dappd | Mar 2023 – Jul 2024 |
+| Full Stack Engineer | Thinker Friends | Apr 2024 – June 2024 |
 | Full Stack Engineer & Game Developer | Monkey Empire | Jun 2021 – Feb 2023 |
 
 ## 🔗 Links
