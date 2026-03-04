@@ -65,7 +65,7 @@ Senior Full Stack Engineer with 5+ years of experience architecting and deliveri
 
 | Role | Company | Period |
 |------|---------|--------|
-| Senior Full Stack Engineer | v21 Studio | Jul 2025 – Present |
+| Senior Full Stack Engineer | v21 Studio | Jul 2025 – Mar 2026 |
 | Full Stack Engineer | ProtoKOLs | Aug 2024 – Jul 2025 |
 | Full Stack Engineer | Dappd | Mar 2023 – Jul 2024 |
 | Full Stack Engineer & Game Developer | Monkey Empire | Jun 2021 – Feb 2023 |
