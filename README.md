@@ -34,7 +34,7 @@ Full-Stack Product Engineer with 5+ years of experience building high-performanc
 ## 🚀 Featured Projects
 
 ### ProtoKOLs — AI-Powered Influencer Analytics Platform
-- Case study: https://www.yasindu.me/project/protokols
+- Case Study: https://www.yasindu.me/project/protokols
 - Timeline: Aug 2024 – Jul 2025
 - Highlights:
   - Built data-dense dashboards including KPI trackers, analytics tools, watchlists, and interactive charts across workflows around 100K+ influencer profiles
@@ -42,7 +42,7 @@ Full-Stack Product Engineer with 5+ years of experience building high-performanc
   - Implemented high-performance UI patterns including streaming, skeletons, optimistic updates, and resilient error states to improve perceived performance and reliability across the platform
 
 ### Create T3 Chill App — Open Source CLI Starter Kit
-- Case study: https://www.yasindu.me/project/t3-chill-app
+- Case Study: https://www.yasindu.me/project/t3-chill-app
 - Highlights:
   - Built and published an interactive CLI tool that scaffolds a complete full-stack application with automated Docker orchestration, environment validation, and database setup
   - Bundles Next.js, Supabase, tRPC, Prisma, and Stripe with auth, role-based access, and subscription billing out of the box
