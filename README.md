@@ -1,9 +1,11 @@
 # Hello there 👋, I'm [Yasindu Nethmina](https://www.yasindu.me)
 
-Full-Stack Product Engineer with 5+ years of experience building high-performance web products across SaaS, analytics, finance, and Web3. I specialise in React, Next.js, TypeScript, and modern backend architectures, and I thrive in fast-paced, high-output environments where end-to-end ownership matters.
+Full-Stack Product Engineer with 5+ years of experience building high-performance web products across SaaS, analytics, finance, Web3 & AI. I specialise in React, Next.js, TypeScript, and modern backend architectures, and I thrive in fast-paced, high-output environments where end-to-end ownership matters.
 
-- 🚀 Most recently at v21 Studio, a high-output UK-based design agency, leading engineering across 25+ concurrent client projects
-- 👨‍💻 Previously at ProtoKOLs, built an AI-powered analytics platform serving workflows around 100K+ tracked influencers
+- 🚀 Most recently at v21 Studio, a high-output UK-based design studio, I led engineering across 25+ client products spanning trading platforms, DeFi applications, data-rich dashboards, interactive 3D experiences, and AI-driven workflows
+- 👨‍💻 At ProtoKOLs, I helped build an AI-powered analytics platform supporting workflows around 100K+ influencer profiles, with backend systems that contributed to roughly 40% lower third-party API costs
+- 📈 At Dappd, I shipped production financial products across DeFi dashboards, trading flows, and NFT marketplace experiences, enabling 100K+ user transactions across live platforms
+- 🛠️ I also build open-source tooling, including Create T3 Chill App, a CLI starter kit for a production-ready Next.js stack
 - 🌐 Portfolio: https://www.yasindu.me
 - 📧 contact@yasindu.me
 
@@ -23,11 +25,11 @@ Full-Stack Product Engineer with 5+ years of experience building high-performanc
 - ORMs: Prisma, Drizzle ORM
 
 ### Infrastructure and Delivery
-- Docker, AWS, Vercel, Supabase, Railway, GitHub Actions (CI/CD), Sentry
+- Docker, AWS, Vercel, Supabase, Railway, GitHub Actions, Sentry
 
 ### Web3 and AI
 - Solidity, Wagmi, Viem
-- AI Agents, AI-powered workflows and integrations
+- LLM integrations, AI Agents, AI-powered workflows and integrations
 
 ## 🚀 Featured Projects
 
@@ -35,11 +37,11 @@ Full-Stack Product Engineer with 5+ years of experience building high-performanc
 - Case study: https://www.yasindu.me/project/protokols
 - Timeline: Aug 2024 – Jul 2025
 - Highlights:
-  - Owned frontend architecture for data-rich dashboards including KPI trackers, analytics tools, watchlists, and interactive charts, transforming large datasets across 100K+ influencers into actionable insights
-  - Built cost-efficient backend systems with AI-powered data classification and smart Redis caching, reducing third-party API costs by roughly 40% while maintaining data freshness at scale
-  - Implemented high-performance UI patterns including optimistic updates and resilient error states, improving perceived performance and reliability across the platform
+  - Built data-dense dashboards including KPI trackers, analytics tools, watchlists, and interactive charts across workflows around 100K+ influencer profiles
+  - Built cost-efficient backend systems with AI-powered classification workflows and Redis caching layers, reducing third-party API costs by roughly 40% while maintaining data freshness and accuracy at scale
+  - Implemented high-performance UI patterns including streaming, skeletons, optimistic updates, and resilient error states to improve perceived performance and reliability across the platform
 
-### T3 Chill App — Open Source CLI Starter Kit
+### Create T3 Chill App — Open Source CLI Starter Kit
 - Repo: https://github.com/yasindunethmina/create-t3-chill-app
 - Highlights:
   - Built and published an interactive CLI tool that scaffolds a complete full-stack application with automated Docker orchestration, environment validation, and database setup
@@ -49,12 +51,12 @@ Full-Stack Product Engineer with 5+ years of experience building high-performanc
 
 | Role | Company | Period |
 |------|---------|--------|
-| Full-Stack Engineer | v21 Studio | Jul 2025 – Mar 2026 |
+| Senior Full-Stack Engineer | v21 Studio | Jul 2025 – Mar 2026 |
 | Full-Stack Engineer | ProtoKOLs | Aug 2024 – Jul 2025 |
 | Full-Stack Engineer | Dappd | Mar 2023 – Jul 2024 |
 | Contract Full-Stack Engineer | Thinker Friends Studio | Apr 2024 – Jun 2024 |
-| Full-Stack Engineer and Game Developer | Monkey Empire | Jun 2021 – Feb 2023 |
-| Game Developer and Level Designer | Independent and Early Team Projects | 2017 – 2021 |
+| Full-Stack Engineer & Game Developer | Monkey Empire | Jun 2021 – Feb 2023 |
+| Game Developer & Level Designer | Independent and Early Team Projects | 2017 – 2021 |
 
 Game development work on ArtStation: https://www.artstation.com/yasindu
 
